@@ -162,3 +162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particlePrefab: {fileID: 4077364186249613837, guid: 3e763be963cc30b40bfd73020acbd2b2, type: 3}
+  sprites: []
+  sprite1: {fileID: -2135585597343286014, guid: f2e31ec83b6ca7b42b888807d33e33a9, type: 3}
+  sprite2: {fileID: 3625043607559282579, guid: 1cb8b5ca6f0fa83488e49fd200191477, type: 3}
+  sprite3: {fileID: 7482667652216324306, guid: b3c69eb6d6b62ce479399b3cce3d99be, type: 3}
